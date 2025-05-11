@@ -1,21 +1,9 @@
-![image](https://github.com/user-attachments/assets/6eed0454-7ede-44e3-b6ad-2b2a85c336ce)# Weather-App
-A sleek and responsive Weather App built using React JS, allowing users to get real-time weather updates for any city worldwide. This project integrates with a public weather API to fetch and display current weather conditions such as temperature, humidity, wind speed, and more.
+![Screenshot (28)](https://github.com/MOHAMMADSHEHBAZ/weather-app/assets/121683891/34180bbb-3497-4ea7-86fa-f8a3b6f56baf)
+![Screenshot (31)](https://github.com/MOHAMMADSHEHBAZ/weather-app/assets/121683891/e09d13ae-fe29-4565-8a37-08ca13004d93)
+![Screenshot (27)](https://github.com/MOHAMMADSHEHBAZ/weather-app/assets/121683891/d1b21f8c-f59f-4c91-a88e-3e365442d22d)
 
+### `Show Your Support`
+Give a ⭐ if you like this project!
 
-🔧 Features
-Live weather updates using API integration
-
-Search functionality for cities worldwide
-
-Clean and minimal UI design
-
-Responsive layout for all device sizes
-
-Error handling for invalid city names
-
-🛠️ Tech Stack
-React JS
-CSS / Tailwind CSS (if used)
-OpenWeatherMap API (or your choice of API)
-
-
+### `Set Up`
+npm start
