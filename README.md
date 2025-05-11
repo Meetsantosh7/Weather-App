@@ -18,5 +18,4 @@ React JS
 CSS / Tailwind CSS (if used)
 OpenWeatherMap API (or your choice of API)
 
-![Uploading image.png…]()
 
